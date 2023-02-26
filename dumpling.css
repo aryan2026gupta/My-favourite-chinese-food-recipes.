@@ -1,0 +1,81 @@
+nav{
+    background-color: aliceblue;
+    width: 20em;
+    position: fixed;
+    top: 3rem;
+    opacity: 0.8;
+}
+
+nav:hover{
+    opacity: 1.0;
+}
+
+#chinese{
+
+    margin-top: 10rem;
+}
+img{
+    width: 400px;
+    margin-left: 40px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+nav ul{
+    padding-left: 25px;
+}
+article{
+margin-left: 40px;
+min-width: 30rem;
+max-width: 50rem;
+margin: auto;
+margin-top: 4rem;
+}
+
+
+        footer, h1{
+text-align: center;
+
+}
+
+h1{
+    margin: 0px;
+    font-family: cursive;
+    background-color: aliceblue;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+body{
+    font-family: "Calibri", sans-serif;
+    margin: 0px;
+    font-size: 120%;
+
+}
+
+table{
+    margin-left: 2em;
+    border-collapse: collapse;
+
+
+
+
+}
+
+tr{
+    border-bottom: 1px solid grey;
+
+}
+
+td.ingredient{
+    text-align: left;
+    padding-right: 2em;
+}
+
+td.amount{
+    text-align: right;
+    padding-left: 2em;
+
+
+}
